@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Prepare
+
+`nvm install node`
+`nvm use node`
+`npx create-next-app@latest .`
+`npm install @mui/material-nextjs @emotion/cache`
+`npm install @mui/material @emotion/react @emotion/styled`
+
 ## Getting Started
 
 First, run the development server:
