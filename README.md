@@ -5,8 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 `nvm install node`
 `nvm use node`
 `npx create-next-app@latest .`
-`npm install @mui/material-nextjs @emotion/cache`
 `npm install @mui/material @emotion/react @emotion/styled`
+`npm install @mui/material-nextjs @emotion/cache`
 
 ## Getting Started
 
